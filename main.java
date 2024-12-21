@@ -19,6 +19,8 @@ public class main {
         System.out.println();
         int min = 100000, max = 999999;
 
+        int ggg = 5;
+
         Random rand = new Random();
         Scanner sc = new Scanner(System.in);
 
